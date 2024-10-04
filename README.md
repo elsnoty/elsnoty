@@ -18,9 +18,6 @@ A full-stack e-commerce app with user authentication, product management, and re
 ## 🍕 Food Delivery App
 A sleek food delivery platform with dynamic UI and advanced animations.
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=elsnoty&show_icons=true&theme=radical" alt="Mostafa's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsnoty&theme=radical" alt="Mostafa's GitHub Streaks" /> </p>
-
 ## 🔗 Get in Touch
 - 📧 [Email](mailto:mostafashawky399@gmail.com)
 - 💼 [Portfolio](https://personal-portfolio-lime-theta.vercel.app/)

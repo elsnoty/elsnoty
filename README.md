@@ -33,13 +33,6 @@ Here’s a quick glance at what I do and my journey as a developer:
 
 </div>
 
-
-# 💼 Featured Projects
-## 🛒 ELSNOTY E-commerce
-A full-stack e-commerce app with user authentication, product management, and review functionality.
-## 🍕 Food Delivery App
-A sleek food delivery platform with dynamic UI and advanced animations.
-
 ## 🔗 Get in Touch
 - 📧 [Email](mailto:mostafashawky399@gmail.com)
 - 💼 [Portfolio](https://personal-portfolio-lime-theta.vercel.app/)

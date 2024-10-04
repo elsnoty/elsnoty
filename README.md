@@ -1,37 +1,38 @@
 # 👋 Hi, I'm Mostafa Shawky!
-### Welcome to my GitHub profile! I’m a passionate MERN Stack Developer from Giza, Egypt who is passionate about crafting engaging and high-performance web applications.
+### Welcome to my GitHub profile! I’m a passionate MERN Stack Developer from Giza, Egypt who is experienced in crafting engaging and high-performance web applications.
 Here’s a quick glance at what I do and my journey as a developer:
-
-# 🚀 About Me
-## 🌱 Always eager to learn new technologies, with a focus on React.js, Next.js, and advanced animations.
-## 💡 I enjoy creating user-friendly interfaces and smooth web animations using GSAP and Framer Motion.
 
 ## 🛠️ Tech Stack & Skills
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
 ### Frontend
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) **React.js**
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) **Next.js**
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) **TypeScript**
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) **HTML**
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) **CSS**
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) **Tailwind CSS**
-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) **Redux**
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="React.js" />
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
 
 ### Backend
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) **Node.js**
-- ![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) **Express.js**
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB**
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
 
 ### State Management
-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) **Redux**
+<img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
 
 ### Animations
-- ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white) **GSAP**
-- ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white) **Framer Motion**
+<img src="https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white" alt="GSAP" />
+<img src="https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white" alt="Framer Motion" />
 
 ### Dev Tools
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) **Git**
-- ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-005571?logo=restful&logoColor=white) **RESTful APIs**
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/-RESTful_APIs-005571?logo=restful&logoColor=white" alt="RESTful APIs" />
+
+</div>
+
 
 # 💼 Featured Projects
 ## 🛒 ELSNOTY E-commerce
